@@ -1,3 +1,4 @@
+//28.02.2022
 public class HW1 {
         public static void main(String[] args) {
             Runner runner1 = new Runner("Петя", 20);

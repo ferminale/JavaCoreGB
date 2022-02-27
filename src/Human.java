@@ -1,5 +1,7 @@
 import java.util.Random;
 
+//28.02.2022
+
 public abstract class Human {
 
     public static Random random = new Random();
